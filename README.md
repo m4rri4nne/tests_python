@@ -48,4 +48,4 @@ Our Scenarios:
 | GET | Search when start date is bigger than end date| - Return a status code 400 <br/>|
 | GET | Search with invalid API Token| - Return a status code 403 <br/> The body response contain the list of asteroid|
 
-For more details, check my article [here]()
+For more details, check my article [here](https://dev.to/m4rri4nne/automating-your-api-tests-using-python-and-pytest-23cc)
